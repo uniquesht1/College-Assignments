@@ -1,5 +1,5 @@
 // 2. WAP to initialize 9 values in 2D array and display the addresses and values of an array
-// a) Using Normal method b) Using array name itself as pointer. c) Using pointer variable. [10]
+// a) Using Normal method b) Using array name itself as pointer. c) Using pointer variable. [10]       
 
 #include <stdio.h>
 #include <conio.h>
